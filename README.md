@@ -23,7 +23,7 @@
 ### Preview
 > Add a short GIF here to make the README more visual (`assets/preview.gif`).
 
-![Preview](assets/preview.gif)
+![Preview](https://raw.githubusercontent.com/fiamaribeiro/ai-microvideos-ti/main/assets/preview.gif)
 
 ### 📥 Full video
 - **MP4 (Release):** add your GitHub Release link here  
